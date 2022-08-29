@@ -11,4 +11,4 @@ https://gitlab.com/cryptoroom-project/diamatmesh
 
 # One more stage of inception
 
-My designated place to work is here: https://public-ai-colab.any.surf/ — A public video cards AI colaboratory mesh, and more.
+My designated place to work is here: https://colab.any.surf/ — A public video cards AI colaboratory mesh, and more.
