@@ -37,7 +37,7 @@ Landing apps (pending) & landing website (pending: tmp URL https://our-colab-pre
    * Buy GPU time:
       * This section is for iPython users of our Colab (the paid usage type): i.e. users of GPU resources: Tensorflow, Keras, PyTorch, etc;
  * Whitepaper
-      * The living whitepaper for our colab: https://github.com/KDZDAO/KDZDAO/edit/main/OurColabLivingWhitepaper.md
+      * The living whitepaper for Our Colab Marketplace: https://github.com/KDZDAO/KDZDAO/blob/main/OurColabLivingWhitepaper.md
 
 #### One more stage of inception, after a dialog with AKA Utkonosov (my (anonymous) first BOINC related collaborator; he's my initial BOINC related ideas source man)
 
