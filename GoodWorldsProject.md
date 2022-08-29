@@ -13,6 +13,6 @@ https://gitlab.com/cryptoroom-project/diamatmesh
 
 My temporary designated place to work is here: https://colab.any.surf/ — A public video cards AI colaboratory mesh, and more.
 
-# One more stage of inception, after the dialog with my first BOINC related collaboraror (my initial BOINC related ideas source man)
+# One more stage of inception, after the dialog with my first BOINC related collaborator (my initial BOINC related ideas source man)
 
 So how and whether should & would we employ the Berkeley BOINC or its fork?
