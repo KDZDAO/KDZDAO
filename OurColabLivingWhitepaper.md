@@ -7,7 +7,7 @@
 ## Our Colab's Living Whitepaper Content
 
  * TBD Edit the following for better services & marketing & public relations
- * TBD Answer questions below: answer to degrees currently possible (but not further; however considerations can be described; and more)
+ * TBD Answer questions below: answer to degrees currently possible (but do not answer further in a wrong way; however considerations can be described; and more)
 
 ### Colab's Inception bits
 
