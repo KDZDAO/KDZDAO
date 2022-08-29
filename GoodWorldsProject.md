@@ -1,3 +1,9 @@
+**Nota Bene:** This file is a bit delayed; TBD edit it to reflect the file name project's goal instead of ethically (almost) unbiased Colab (Our Colab).
+
+...This file is further being edited at *The Living Whitepaper for Our Colab*: https://github.com/KDZDAO/KDZDAO/edit/main/OurColabLivingWhitepaper.md
+
+**OLDER CONTENT FOLLOWS; TBD EDIT TO REVAMP**
+
 # One of stages of inception
 
 Кст у меня есть такое вот странноватое
@@ -29,3 +35,4 @@ Landing apps (pending) & landing website (pending: tmp URL https://our-colab-pre
 # One more stage of inception, after a dialog with AKA Utkonosov (my (anonymous) first BOINC related collaborator; he's my initial BOINC related ideas source man)
 
 One of current questions is: so how and whether should & would we employ the Berkeley BOINC or its fork?
+
