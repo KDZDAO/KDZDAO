@@ -30,12 +30,13 @@ Landing apps (pending) & landing website (pending: tmp URL https://our-colab-pre
 
  * GPU Owners
    * Sell GPU time:
-      * This section is for chips owners (of GPU chips; and of maybe more types of chips): Link GPUs owned by you with our GPU users;
+      * This section is for chips owners (of GPU chips; and of maybe more types of chips):
+          * Link GPUs owned by you with GPU time users & GPU time buyers;
  * GPU Users
    * Use the free GPU time:
-      * This section is for iPython users of our Colab (the demo usage type): i.e. users of GPU resources: Tensorflow, Keras, PyTorch, etc;
+      * This section is for iPython users of our Colab (the *demo* usage type): i.e. users of GPU resources: Tensorflow, Keras, PyTorch, etc;
    * Buy GPU time:
-      * This section is for iPython users of our Colab (the paid usage type): i.e. users of GPU resources: Tensorflow, Keras, PyTorch, etc;
+      * This section is for iPython users of our Colab (the *paid* usage type): i.e. users of GPU resources: Tensorflow, Keras, PyTorch, etc;
  * Whitepaper
       * The living whitepaper for Our Colab Marketplace: https://github.com/KDZDAO/KDZDAO/blob/main/OurColabLivingWhitepaper.md
 
