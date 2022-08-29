@@ -30,7 +30,7 @@ Landing apps (pending) & landing website (pending: tmp URL https://our-colab-pre
 
  * GPU Owners
    * Sell GPU time:
-      * This section is for chips owners (of GPU chips; of CPU chips, and of maybe more types of chips): Link GPUs owned by you with our GPU users;
+      * This section is for chips owners (of GPU chips; and of maybe more types of chips): Link GPUs owned by you with our GPU users;
  * GPU Users
    * Use the free GPU time:
       * This section is for iPython users of our Colab (the demo usage type): i.e. users of GPU resources: Tensorflow, Keras, PyTorch, etc;
